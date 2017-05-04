@@ -1,7 +1,7 @@
 {
   "name": "mkusername",
-  "version": "0.1.0",
-  "description": "make a username",
+  "version": "0.1.1",
+  "description": "make a unqiue username",
   "main": "index.js",
   "bin": {
     "mkusername": "mkusername.js"

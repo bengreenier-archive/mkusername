@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const mkUsername = require('./')
 const argv = require('yargs')
     .version(require(`${__dirname}/package.json`).version)
